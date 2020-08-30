@@ -1,0 +1,1342 @@
+{
+    "userId": "8:live:.cid.11f33b69fd0af271",
+    "exportDate": "2020-08-24T20:18",
+    "conversations": [{
+            "id": "48:calllogs",
+            "displayName": null,
+            "version": 1583400344669.0,
+            "properties": {
+                "conversationblocked": false,
+                "lastimreceivedtime": null,
+                "consumptionhorizon": null,
+                "conversationstatus": null
+            },
+            "threadProperties": null,
+            "MessageList": [{
+                    "id": "1583400344669",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-05T09:25:44.403Z",
+                    "messagetype": "Text",
+                    "version": 1583400344669.0,
+                    "content": "Call Log for Call 3ea9005d-ac47-42c1-af1d-43823351628c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-05T09:25:35.0577765Z\",\"connectTime\":null,\"endTime\":\"2020-03-05T09:25:44.4036547Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"3ea9005d-ac47-42c1-af1d-43823351628c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583353999660",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T20:33:19.564Z",
+                    "messagetype": "Text",
+                    "version": 1583353999660.0,
+                    "content": "Call Log for Call 1645b09e-230a-4427-b4da-3d319969d0b4",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T20:33:10.4947982Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T20:33:19.5647389Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"1645b09e-230a-4427-b4da-3d319969d0b4\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583353570024",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T20:26:09.931Z",
+                    "messagetype": "Text",
+                    "version": 1583353570024.0,
+                    "content": "Call Log for Call e0cc4864-ebf4-46ae-8b93-984ebfd19740",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T20:26:00.8515478Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T20:26:09.9313949Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"e0cc4864-ebf4-46ae-8b93-984ebfd19740\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583352498709",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T20:08:18.62Z",
+                    "messagetype": "Text",
+                    "version": 1583352498709.0,
+                    "content": "Call Log for Call 35f7b78d-4927-4e90-9d0c-7dd7d4bc7a56",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T20:08:09.5672063Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T20:08:18.6208366Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"35f7b78d-4927-4e90-9d0c-7dd7d4bc7a56\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583351977823",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:59:37.743Z",
+                    "messagetype": "Text",
+                    "version": 1583351977823.0,
+                    "content": "Call Log for Call c5f2eff7-aa71-4b2a-97db-e2957cae4664",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:59:07.7405788Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:59:37.7430132Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"c5f2eff7-aa71-4b2a-97db-e2957cae4664\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583351191255",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:46:31.107Z",
+                    "messagetype": "Text",
+                    "version": 1583351191255.0,
+                    "content": "Call Log for Call 0362b429-da5a-4e47-87a2-34d14058caa8",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:46:01.1044196Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:46:31.1077393Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0362b429-da5a-4e47-87a2-34d14058caa8\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583351084444",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:44:44.351Z",
+                    "messagetype": "Text",
+                    "version": 1583351084444.0,
+                    "content": "Call Log for Call b808cdad-81af-449a-a706-59b795e9a396",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:44:14.3348591Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:44:44.3512104Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b808cdad-81af-449a-a706-59b795e9a396\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583351045866",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:44:05.774Z",
+                    "messagetype": "Text",
+                    "version": 1583351045866.0,
+                    "content": "Call Log for Call 15489c50-27fc-4619-b75b-000a5c836831",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:43:35.769225Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:44:05.7749024Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"15489c50-27fc-4619-b75b-000a5c836831\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583351009194",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:43:29.096Z",
+                    "messagetype": "Text",
+                    "version": 1583351009194.0,
+                    "content": "Call Log for Call c9ce6580-c7d8-477a-a475-571a1d962e8e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:42:59.0914056Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:43:29.0964868Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"c9ce6580-c7d8-477a-a475-571a1d962e8e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583350770712",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:39:30.626Z",
+                    "messagetype": "Text",
+                    "version": 1583350770712.0,
+                    "content": "Call Log for Call abd4bb33-7977-4097-b72c-c0b92ddf0ea4",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:38:29.4177938Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:39:30.6106972Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"abd4bb33-7977-4097-b72c-c0b92ddf0ea4\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583350702164",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:38:22.071Z",
+                    "messagetype": "Text",
+                    "version": 1583350702164.0,
+                    "content": "Call Log for Call 250acefb-c331-4894-b0f5-e2bd0395f369",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:37:20.8094264Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T19:38:22.0712678Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"250acefb-c331-4894-b0f5-e2bd0395f369\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583349951798",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:25:51.713Z",
+                    "messagetype": "Text",
+                    "version": 1583349951798.0,
+                    "content": "Call Log for Call f6e9189f-6b86-4456-9e97-6e58b5674ed6",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:21:02.9699538Z\",\"connectTime\":\"2020-03-04T19:21:09.1743391Z\",\"endTime\":\"2020-03-04T19:25:51.7136154Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"f6e9189f-6b86-4456-9e97-6e58b5674ed6\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"732b190e-c6fb-4e00-8ad7-f4c519edfc85\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583349649083",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:20:48.982Z",
+                    "messagetype": "Text",
+                    "version": 1583349649083.0,
+                    "content": "Call Log for Call cbcdf275-0759-4d2f-a892-c61d79db345a",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T19:20:30.1089928Z\",\"connectTime\":\"2020-03-04T19:20:41.3938393Z\",\"endTime\":\"2020-03-04T19:20:48.9820448Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"cbcdf275-0759-4d2f-a892-c61d79db345a\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"ac6bdd96-a542-4ffc-9485-23ba79bbcd6a\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583349602800",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T19:20:02.697Z",
+                    "messagetype": "Text",
+                    "version": 1583349602800.0,
+                    "content": "Call Log for Call e5e00d15-a139-4806-8e83-04543e840d45",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T18:33:29.5105189Z\",\"connectTime\":\"2020-03-04T18:34:06.8969527Z\",\"endTime\":\"2020-03-04T19:20:02.6974153Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"e5e00d15-a139-4806-8e83-04543e840d45\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"edad261d-0224-4f94-a86d-043fc80a6ff3\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583340192904",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:43:12.822Z",
+                    "messagetype": "Text",
+                    "version": 1583340192904.0,
+                    "content": "Call Log for Call 655d6e6e-adbb-4d44-9586-0854aee9a5af",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:23:10.5105969Z\",\"connectTime\":\"2020-03-04T16:23:16.66831Z\",\"endTime\":\"2020-03-04T16:43:12.8072225Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"655d6e6e-adbb-4d44-9586-0854aee9a5af\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"5e1ac210-b589-445a-b8c1-37c96bf2a487\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583338766611",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:19:26.505Z",
+                    "messagetype": "Text",
+                    "version": 1583338766611.0,
+                    "content": "Call Log for Call a255b6b7-a630-438a-921e-ab14a0281324",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:18:27.9687556Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T16:19:26.5050048Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"a255b6b7-a630-438a-921e-ab14a0281324\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583338569473",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:16:09.357Z",
+                    "messagetype": "Text",
+                    "version": 1583338569473.0,
+                    "content": "Call Log for Call 603b4872-e81f-4d60-acb7-f451d95027e1",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:16:03.6229316Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T16:16:09.3575996Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"declined\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"603b4872-e81f-4d60-acb7-f451d95027e1\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583338561426",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:16:01.318Z",
+                    "messagetype": "Text",
+                    "version": 1583338561426.0,
+                    "content": "Call Log for Call 48077d77-14c3-4543-b6f9-7215d5fd3275",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:15:49.2160083Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T16:16:01.3186199Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"48077d77-14c3-4543-b6f9-7215d5fd3275\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583338480599",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:14:40.496Z",
+                    "messagetype": "Text",
+                    "version": 1583338480599.0,
+                    "content": "Call Log for Call 6ef761b1-d4bd-43cc-8b9e-586a7595ea21",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:14:10.492052Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T16:14:40.4964128Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"6ef761b1-d4bd-43cc-8b9e-586a7595ea21\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583338444647",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T16:14:04.529Z",
+                    "messagetype": "Text",
+                    "version": 1583338444647.0,
+                    "content": "Call Log for Call 0f0124e8-5b6b-4478-afc7-acaba13eec53",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T16:13:34.5142701Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T16:14:04.5290722Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0f0124e8-5b6b-4478-afc7-acaba13eec53\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583335714261",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T15:28:34.166Z",
+                    "messagetype": "Text",
+                    "version": 1583335714261.0,
+                    "content": "Call Log for Call d61b283a-fbca-4dc5-af11-fe847495d35c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T15:09:51.7565015Z\",\"connectTime\":\"2020-03-04T15:10:14.1639532Z\",\"endTime\":\"2020-03-04T15:28:34.1668684Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"d61b283a-fbca-4dc5-af11-fe847495d35c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"c97d02b3-d4c1-4c9c-b440-bc4011c95fe9\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583332656927",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T14:37:36.845Z",
+                    "messagetype": "Text",
+                    "version": 1583332656927.0,
+                    "content": "Call Log for Call f6e8a07a-7eb6-4221-b4e2-cdbe27c0bc2b",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T14:37:06.8287647Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T14:37:36.8454181Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"f6e8a07a-7eb6-4221-b4e2-cdbe27c0bc2b\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583305923815",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T07:12:03.71Z",
+                    "messagetype": "Text",
+                    "version": 1583305923815.0,
+                    "content": "Call Log for Call 44036d24-152b-414a-b14e-f68553a232c5",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T07:07:28.8667148Z\",\"connectTime\":\"2020-03-04T07:07:40.0565879Z\",\"endTime\":\"2020-03-04T07:12:03.7106812Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"44036d24-152b-414a-b14e-f68553a232c5\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"01b1af34-45f8-40b3-8e54-0726fb020690\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583304822720",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T06:53:42.624Z",
+                    "messagetype": "Text",
+                    "version": 1583304822720.0,
+                    "content": "Call Log for Call d2c3e835-7c50-438d-a65e-9536a48042db",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T06:51:33.0310477Z\",\"connectTime\":\"2020-03-04T06:51:36.4741921Z\",\"endTime\":\"2020-03-04T06:53:42.6248608Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"d2c3e835-7c50-438d-a65e-9536a48042db\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"5108faba-a522-4aa5-b0c5-480b25af82bc\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583302452158",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T06:14:11.968Z",
+                    "messagetype": "Text",
+                    "version": 1583302452158.0,
+                    "content": "Call Log for Call 7ea99ec4-ea5c-4b08-a6cd-09b5f8e50b43",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T06:13:41.7284576Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T06:14:11.968862Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"7ea99ec4-ea5c-4b08-a6cd-09b5f8e50b43\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583301969618",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-04T06:06:09.429Z",
+                    "messagetype": "Text",
+                    "version": 1583301969618.0,
+                    "content": "Call Log for Call 89a85d68-1c9c-48a0-bc68-f742cff71b2f",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-04T06:05:39.4298408Z\",\"connectTime\":null,\"endTime\":\"2020-03-04T06:06:09.4290685Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"89a85d68-1c9c-48a0-bc68-f742cff71b2f\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583253951337",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T16:45:51.258Z",
+                    "messagetype": "Text",
+                    "version": 1583253951337.0,
+                    "content": "Call Log for Call d9ec9837-aba9-4153-bc5c-80425fbee072",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T16:44:38.0671988Z\",\"connectTime\":null,\"endTime\":\"2020-03-03T16:45:51.2587252Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"d9ec9837-aba9-4153-bc5c-80425fbee072\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583252670510",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T16:24:30.412Z",
+                    "messagetype": "Text",
+                    "version": 1583252670510.0,
+                    "content": "Call Log for Call 052243e1-79b2-4638-8da1-f6ca08de775d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T16:18:59.1584786Z\",\"connectTime\":\"2020-03-03T16:19:16.4763548Z\",\"endTime\":\"2020-03-03T16:24:30.4125068Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"052243e1-79b2-4638-8da1-f6ca08de775d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"3a7be29d-c720-4b47-ab25-758e82baa057\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583251280730",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T16:01:20.632Z",
+                    "messagetype": "Text",
+                    "version": 1583251280730.0,
+                    "content": "Call Log for Call a6084693-93af-423a-a76a-d7d56ff5978b",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T15:59:56.4920148Z\",\"connectTime\":\"2020-03-03T16:00:11.3734023Z\",\"endTime\":\"2020-03-03T16:01:20.6329807Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"a6084693-93af-423a-a76a-d7d56ff5978b\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"685eb040-865a-48a3-8f59-324370d53f2c\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583250225869",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T15:43:45.776Z",
+                    "messagetype": "Text",
+                    "version": 1583250225869.0,
+                    "content": "Call Log for Call 1264ece1-8e17-4b30-be9d-492b966f48c8",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T15:25:00.6750358Z\",\"connectTime\":\"2020-03-03T15:25:10.5999684Z\",\"endTime\":\"2020-03-03T15:43:45.7765124Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"1264ece1-8e17-4b30-be9d-492b966f48c8\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"6ad22eb0-78f5-42ab-bfbb-ffa875a76073\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583248597921",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T15:16:37.836Z",
+                    "messagetype": "Text",
+                    "version": 1583248597921.0,
+                    "content": "Call Log for Call ff65678c-fceb-480c-a16b-3fa91fe9f9fb",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T15:16:14.6089451Z\",\"connectTime\":null,\"endTime\":\"2020-03-03T15:16:37.8365433Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"ff65678c-fceb-480c-a16b-3fa91fe9f9fb\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583236034958",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T11:47:14.853Z",
+                    "messagetype": "Text",
+                    "version": 1583236034958.0,
+                    "content": "Call Log for Call bb25220c-b46e-4084-9364-4b1606bab68e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T11:45:43.4991965Z\",\"connectTime\":\"2020-03-03T11:45:53.578822Z\",\"endTime\":\"2020-03-03T11:47:14.8539423Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"bb25220c-b46e-4084-9364-4b1606bab68e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"c7dca927-b109-4e4e-886d-d9ea0461c454\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583234866146",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T11:27:46.054Z",
+                    "messagetype": "Text",
+                    "version": 1583234866146.0,
+                    "content": "Call Log for Call d016ed8d-69f1-4983-bf31-8de118eee77e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T11:19:17.1607033Z\",\"connectTime\":\"2020-03-03T11:19:21.0211706Z\",\"endTime\":\"2020-03-03T11:27:46.0548606Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"d016ed8d-69f1-4983-bf31-8de118eee77e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"3c2099d6-f59e-4936-b6dc-9ae186a38843\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583234307341",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T11:18:27.238Z",
+                    "messagetype": "Text",
+                    "version": 1583234307341.0,
+                    "content": "Call Log for Call 6e94042c-462f-4521-90ef-a9e3707c1a60",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-03T11:16:54.0887056Z\",\"connectTime\":\"2020-03-03T11:16:58.9667328Z\",\"endTime\":\"2020-03-03T11:18:27.2383415Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"6e94042c-462f-4521-90ef-a9e3707c1a60\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"452c21b1-0b32-431b-a9ba-98ee0239b6d2\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583193625051",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-03T00:00:24.958Z",
+                    "messagetype": "Text",
+                    "version": 1583193625051.0,
+                    "content": "Call Log for Call 4101dd5c-535f-4f2e-95f5-bcfe77db84d4",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T23:18:36.9994069Z\",\"connectTime\":\"2020-03-02T23:18:44.4025814Z\",\"endTime\":\"2020-03-03T00:00:24.9431144Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"4101dd5c-535f-4f2e-95f5-bcfe77db84d4\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"08b6f06e-e989-4ddc-aafc-de2e14b31f6b\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583189780189",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T22:56:20.087Z",
+                    "messagetype": "Text",
+                    "version": 1583189780189.0,
+                    "content": "Call Log for Call da7165f5-0460-49ae-bb44-38fb1e795557",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T21:09:20.2756987Z\",\"connectTime\":\"2020-03-02T21:09:23.3883959Z\",\"endTime\":\"2020-03-02T22:56:20.087116Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"da7165f5-0460-49ae-bb44-38fb1e795557\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"52e33bcc-e000-4b84-9d0d-0c2e2ed25617\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583183352748",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T21:09:12.658Z",
+                    "messagetype": "Text",
+                    "version": 1583183352748.0,
+                    "content": "Call Log for Call 4bac2a82-b11e-415f-8ee7-024bd8d897f4",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T19:05:04.3021448Z\",\"connectTime\":\"2020-03-02T19:05:13.3361571Z\",\"endTime\":\"2020-03-02T21:09:12.6428701Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"4bac2a82-b11e-415f-8ee7-024bd8d897f4\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"9f7a71a7-7369-48b1-ab3b-909ce9163e4d\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583175318530",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T18:55:18.429Z",
+                    "messagetype": "Text",
+                    "version": 1583175318530.0,
+                    "content": "Call Log for Call c3de50b4-1e1a-41fd-bc20-23c4e65f9b95",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T18:53:54.5005311Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T18:55:18.4292581Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"c3de50b4-1e1a-41fd-bc20-23c4e65f9b95\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583174985190",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T18:49:45.091Z",
+                    "messagetype": "Text",
+                    "version": 1583174985190.0,
+                    "content": "Call Log for Call 135312bf-8b66-4f1e-a287-1b0f62a32e5e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T18:48:43.4452223Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T18:49:45.0919607Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"135312bf-8b66-4f1e-a287-1b0f62a32e5e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583174840614",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T18:47:20.517Z",
+                    "messagetype": "Text",
+                    "version": 1583174840614.0,
+                    "content": "Call Log for Call baae4419-0b00-4e9e-bcad-151cdba155c1",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T18:46:43.8137664Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T18:47:20.5171257Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"baae4419-0b00-4e9e-bcad-151cdba155c1\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583174265667",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T18:37:45.505Z",
+                    "messagetype": "Text",
+                    "version": 1583174265667.0,
+                    "content": "Call Log for Call 7df1464c-e3a3-4c60-945d-e5b7af14c905",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T18:37:28.7509294Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T18:37:45.5058586Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"7df1464c-e3a3-4c60-945d-e5b7af14c905\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583174029545",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T18:33:49.458Z",
+                    "messagetype": "Text",
+                    "version": 1583174029545.0,
+                    "content": "Call Log for Call 08edfe96-3137-49c9-b46e-a4d0e48d8f43",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T18:33:24.0860176Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T18:33:49.4589555Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"08edfe96-3137-49c9-b46e-a4d0e48d8f43\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583162962087",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T15:29:21.978Z",
+                    "messagetype": "Text",
+                    "version": 1583162962087.0,
+                    "content": "Call Log for Call 4f03732c-6b18-44d2-8802-30ce7f3df3b6",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T15:27:30.599082Z\",\"connectTime\":\"2020-03-02T15:27:39.0224502Z\",\"endTime\":\"2020-03-02T15:29:21.9784608Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"4f03732c-6b18-44d2-8802-30ce7f3df3b6\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"620ef04d-04ae-4325-b8b7-1bfbb9ea5256\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583159717552",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T14:35:17.454Z",
+                    "messagetype": "Text",
+                    "version": 1583159717552.0,
+                    "content": "Call Log for Call 314093b3-4104-4559-bc4e-802c08fadb1f",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T14:34:57.2626024Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T14:35:17.4542362Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"314093b3-4104-4559-bc4e-802c08fadb1f\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583123817840",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:36:57.743Z",
+                    "messagetype": "Text",
+                    "version": 1583123817840.0,
+                    "content": "Call Log for Call caa98a8e-3f96-459c-8626-4cafd58b1740",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:36:27.9851119Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T04:36:57.7431393Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"caa98a8e-3f96-459c-8626-4cafd58b1740\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583123771403",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:36:11.265Z",
+                    "messagetype": "Text",
+                    "version": 1583123771403.0,
+                    "content": "Call Log for Call 57463410-9dad-42c5-bd1f-51d57a756b66",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:36:03.5626143Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T04:36:11.2658824Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"57463410-9dad-42c5-bd1f-51d57a756b66\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583122998769",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:23:18.608Z",
+                    "messagetype": "Text",
+                    "version": 1583122998769.0,
+                    "content": "Call Log for Call ffc39dbb-4822-4d77-92bd-a23d02c1f9b1",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:18:24.9998143Z\",\"connectTime\":\"2020-03-02T04:18:30.3137824Z\",\"endTime\":\"2020-03-02T04:23:18.6086649Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"ffc39dbb-4822-4d77-92bd-a23d02c1f9b1\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"db47fede-af2c-44b9-9c64-3f152617272e\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583122215185",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:10:15.079Z",
+                    "messagetype": "Text",
+                    "version": 1583122215185.0,
+                    "content": "Call Log for Call 52432531-30e1-4377-bb50-71bafd52171e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:08:20.3095258Z\",\"connectTime\":\"2020-03-02T04:09:00.7118952Z\",\"endTime\":\"2020-03-02T04:10:15.0790008Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"52432531-30e1-4377-bb50-71bafd52171e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"97117b2c-9069-4af6-a560-1d60fdc5af80\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583121848783",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:04:08.68Z",
+                    "messagetype": "Text",
+                    "version": 1583121848783.0,
+                    "content": "Call Log for Call b3a9756e-70aa-41c5-a157-75645697d9b6",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:03:39.6334743Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T04:04:08.6803303Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b3a9756e-70aa-41c5-a157-75645697d9b6\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583121813939",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T04:03:33.836Z",
+                    "messagetype": "Text",
+                    "version": 1583121813939.0,
+                    "content": "Call Log for Call 9823a984-7114-4c39-af0e-707962f2dd4d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T04:03:17.5014642Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T04:03:33.8362695Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"9823a984-7114-4c39-af0e-707962f2dd4d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583121573348",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T03:59:33.255Z",
+                    "messagetype": "Text",
+                    "version": 1583121573348.0,
+                    "content": "Call Log for Call 2c4b9b2b-170e-4c39-9a45-b63ec6102690",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T03:58:32.785784Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T03:59:33.255975Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"2c4b9b2b-170e-4c39-9a45-b63ec6102690\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583121461317",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-02T03:57:41.221Z",
+                    "messagetype": "Text",
+                    "version": 1583121461317.0,
+                    "content": "Call Log for Call 58df283d-045b-42d4-b1d8-5297e61c03a1",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-02T03:56:42.038444Z\",\"connectTime\":null,\"endTime\":\"2020-03-02T03:57:41.2218752Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"58df283d-045b-42d4-b1d8-5297e61c03a1\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583101756592",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T22:29:16.507Z",
+                    "messagetype": "Text",
+                    "version": 1583101756592.0,
+                    "content": "Call Log for Call f442946b-8ac8-40df-be6b-dfe04a36166d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T21:21:11.0524361Z\",\"connectTime\":\"2020-03-01T21:22:00.4819495Z\",\"endTime\":\"2020-03-01T22:29:16.4917013Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"f442946b-8ac8-40df-be6b-dfe04a36166d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"fe0dd544-23e4-4161-99b3-f00b9155da76\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583094208702",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T20:23:28.562Z",
+                    "messagetype": "Text",
+                    "version": 1583094208702.0,
+                    "content": "Call Log for Call 0b0ca9d2-c7f6-42ff-ad4b-7b4f8163ffdf",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T20:07:39.0975664Z\",\"connectTime\":\"2020-03-01T20:07:48.9434693Z\",\"endTime\":\"2020-03-01T20:23:28.5627101Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0b0ca9d2-c7f6-42ff-ad4b-7b4f8163ffdf\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"af6c9953-ad48-43a3-8864-265bb3008026\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583092808345",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T20:00:08.254Z",
+                    "messagetype": "Text",
+                    "version": 1583092808345.0,
+                    "content": "Call Log for Call b730efa4-e3b5-4425-8d09-2ee2e4ef3af8",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T19:35:37.2356474Z\",\"connectTime\":\"2020-03-01T19:35:50.3319058Z\",\"endTime\":\"2020-03-01T20:00:08.2544928Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b730efa4-e3b5-4425-8d09-2ee2e4ef3af8\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"a495e5c9-a4de-4e5d-b8e3-238590d7217f\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583091106770",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T19:31:46.673Z",
+                    "messagetype": "Text",
+                    "version": 1583091106770.0,
+                    "content": "Call Log for Call 862f4c6b-65dc-4dca-98cc-76a74b7ca153",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T19:28:43.6603139Z\",\"connectTime\":\"2020-03-01T19:29:06.5892673Z\",\"endTime\":\"2020-03-01T19:31:46.6577904Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"862f4c6b-65dc-4dca-98cc-76a74b7ca153\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"12e61d4b-37d8-4227-9edf-65c9cce6d5f2\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583088744169",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:52:24.08Z",
+                    "messagetype": "Text",
+                    "version": 1583088744169.0,
+                    "content": "Call Log for Call a5740844-bc17-4ab3-9b72-1faa0717954d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:36:24.2238143Z\",\"connectTime\":\"2020-03-01T18:36:31.008747Z\",\"endTime\":\"2020-03-01T18:52:24.0808172Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"Her Mia\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"a5740844-bc17-4ab3-9b72-1faa0717954d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"ea38c26a-2ddb-456b-8fd0-67fd60addd21\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583087732649",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:35:32.458Z",
+                    "messagetype": "Text",
+                    "version": 1583087732649.0,
+                    "content": "Call Log for Call cd9756cd-04ab-438c-8d71-64134e28b47d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:35:18.7940005Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:35:32.458876Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"declined\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"cd9756cd-04ab-438c-8d71-64134e28b47d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583087490871",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:31:30.78Z",
+                    "messagetype": "Text",
+                    "version": 1583087490871.0,
+                    "content": "Call Log for Call 9e41720f-8509-45f9-84ab-9aaa0ebaa006",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:22:35.9062598Z\",\"connectTime\":\"2020-03-01T18:22:50.458867Z\",\"endTime\":\"2020-03-01T18:31:30.7800297Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"9e41720f-8509-45f9-84ab-9aaa0ebaa006\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"d293c794-08bb-4800-9861-e92c2d1bfda6\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583086600522",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:16:40.416Z",
+                    "messagetype": "Text",
+                    "version": 1583086600522.0,
+                    "content": "Call Log for Call 38ae3b45-4e2f-4224-b315-53f7f4867d74",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:15:44.5759129Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:16:40.4169556Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"38ae3b45-4e2f-4224-b315-53f7f4867d74\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583086269057",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:11:08.968Z",
+                    "messagetype": "Text",
+                    "version": 1583086269057.0,
+                    "content": "Call Log for Call 562632a3-e7e1-4fcf-8572-cd65671221df",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:10:13.1108664Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:11:08.968664Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"562632a3-e7e1-4fcf-8572-cd65671221df\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583086207073",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:10:06.983Z",
+                    "messagetype": "Text",
+                    "version": 1583086207073.0,
+                    "content": "Call Log for Call 2d970597-2e4d-478f-bad5-147cb0b3e7e7",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:09:05.9782949Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:10:06.9837952Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"2d970597-2e4d-478f-bad5-147cb0b3e7e7\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583085828483",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:03:48.391Z",
+                    "messagetype": "Text",
+                    "version": 1583085828483.0,
+                    "content": "Call Log for Call b18e0df5-ecef-484d-90e1-978d46f72a49",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:02:57.8653327Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:03:48.3917325Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b18e0df5-ecef-484d-90e1-978d46f72a49\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583085730672",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T18:02:10.582Z",
+                    "messagetype": "Text",
+                    "version": 1583085730672.0,
+                    "content": "Call Log for Call 85c20d81-24a8-4927-b287-7c68907d1488",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T18:01:14.5288295Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T18:02:10.5820698Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"85c20d81-24a8-4927-b287-7c68907d1488\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583085543440",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:59:03.346Z",
+                    "messagetype": "Text",
+                    "version": 1583085543440.0,
+                    "content": "Call Log for Call dedb04f2-2335-4c3e-8a46-f9a0800415cf",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:58:06.5178912Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:59:03.3465424Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"dedb04f2-2335-4c3e-8a46-f9a0800415cf\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583085471972",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:57:51.882Z",
+                    "messagetype": "Text",
+                    "version": 1583085471972.0,
+                    "content": "Call Log for Call da80bdb0-2fa9-4ed2-b350-17cae76cafeb",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:56:55.7409226Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:57:51.8828129Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"da80bdb0-2fa9-4ed2-b350-17cae76cafeb\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583084237989",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:37:17.9Z",
+                    "messagetype": "Text",
+                    "version": 1583084237989.0,
+                    "content": "Call Log for Call 78fb53ee-d2d8-4586-9dd0-8aed5cefc006",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:36:22.1050149Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:37:17.9005448Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"78fb53ee-d2d8-4586-9dd0-8aed5cefc006\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583083997804",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:33:17.708Z",
+                    "messagetype": "Text",
+                    "version": 1583083997804.0,
+                    "content": "Call Log for Call b27e9357-1cb9-4e07-a8da-f8c911f01666",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:32:21.4442491Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:33:17.7083252Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b27e9357-1cb9-4e07-a8da-f8c911f01666\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583083245579",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:20:45.49Z",
+                    "messagetype": "Text",
+                    "version": 1583083245579.0,
+                    "content": "Call Log for Call 5e86c4ed-221a-46a0-b1d3-6333babb1904",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:19:49.4370579Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:20:45.4900704Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"5e86c4ed-221a-46a0-b1d3-6333babb1904\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583083095440",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:18:15.352Z",
+                    "messagetype": "Text",
+                    "version": 1583083095440.0,
+                    "content": "Call Log for Call 4f867b33-7856-4ae0-8143-c372a9a7905e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:17:45.347451Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:18:15.3521651Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"4f867b33-7856-4ae0-8143-c372a9a7905e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583082198373",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T17:03:18.275Z",
+                    "messagetype": "Text",
+                    "version": 1583082198373.0,
+                    "content": "Call Log for Call cf16c32f-7b7c-46e4-856a-1d60e41ed6c9",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T17:02:22.4698502Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T17:03:18.2755069Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"cf16c32f-7b7c-46e4-856a-1d60e41ed6c9\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583079160238",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T16:12:39.831Z",
+                    "messagetype": "Text",
+                    "version": 1583079160238.0,
+                    "content": "Call Log for Call fb0a6f09-51db-4e3c-a040-b2df92a6f349",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T16:11:43.2199357Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T16:12:39.8318541Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"fb0a6f09-51db-4e3c-a040-b2df92a6f349\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583077307104",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T15:41:47.011Z",
+                    "messagetype": "Text",
+                    "version": 1583077307104.0,
+                    "content": "Call Log for Call b09f7093-4f6a-4655-8bf7-caaafff4e506",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T15:40:50.9931495Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T15:41:47.0118561Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"b09f7093-4f6a-4655-8bf7-caaafff4e506\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583077186090",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T15:39:45.997Z",
+                    "messagetype": "Text",
+                    "version": 1583077186090.0,
+                    "content": "Call Log for Call d100705d-613b-42e2-bbec-f9ee2d914f60",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T15:38:49.8925074Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T15:39:45.9976974Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"d100705d-613b-42e2-bbec-f9ee2d914f60\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583075991227",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T15:19:51.092Z",
+                    "messagetype": "Text",
+                    "version": 1583075991227.0,
+                    "content": "Call Log for Call 4162eae9-a5f4-46d9-9e50-6cdb0714868e",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T15:19:17.9608037Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T15:19:51.0924398Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"4162eae9-a5f4-46d9-9e50-6cdb0714868e\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583075749120",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T15:15:49.018Z",
+                    "messagetype": "Text",
+                    "version": 1583075749120.0,
+                    "content": "Call Log for Call a711af16-f129-42a8-a4cf-9a2113b3b91c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T15:14:52.92523Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T15:15:49.0185795Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"a711af16-f129-42a8-a4cf-9a2113b3b91c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583072213331",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T14:16:53.237Z",
+                    "messagetype": "Text",
+                    "version": 1583072213331.0,
+                    "content": "Call Log for Call 3eb53717-ce56-430d-892a-1ddb1ef6a100",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T14:16:04.5894827Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T14:16:53.2378509Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"3eb53717-ce56-430d-892a-1ddb1ef6a100\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583070169949",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:42:49.854Z",
+                    "messagetype": "Text",
+                    "version": 1583070169949.0,
+                    "content": "Call Log for Call af4d74e4-325f-425a-b613-a3d16c0b748f",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:41:53.7842176Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:42:49.8545798Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"af4d74e4-325f-425a-b613-a3d16c0b748f\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583069897232",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:38:17.135Z",
+                    "messagetype": "Text",
+                    "version": 1583069897232.0,
+                    "content": "Call Log for Call 6230f38d-09be-42d0-81e1-c2b9484c5f1c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:37:21.3136493Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:38:17.1357124Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"6230f38d-09be-42d0-81e1-c2b9484c5f1c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583069771436",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:36:11.347Z",
+                    "messagetype": "Text",
+                    "version": 1583069771436.0,
+                    "content": "Call Log for Call 8bd48d3e-902d-43d5-9f0e-e6ea2a7a073c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:35:15.4218887Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:36:11.3474561Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"8bd48d3e-902d-43d5-9f0e-e6ea2a7a073c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583069318707",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:28:38.614Z",
+                    "messagetype": "Text",
+                    "version": 1583069318707.0,
+                    "content": "Call Log for Call 375ac65e-13ca-44a4-954f-8662d7c5f499",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:28:01.3985018Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:28:38.6141822Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"375ac65e-13ca-44a4-954f-8662d7c5f499\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583069204021",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:26:43.937Z",
+                    "messagetype": "Text",
+                    "version": 1583069204021.0,
+                    "content": "Call Log for Call 0e58236f-8a1f-49de-bdd4-052cfb4a8b69",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:25:48.0875618Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:26:43.9372249Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0e58236f-8a1f-49de-bdd4-052cfb4a8b69\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583069054491",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:24:14.358Z",
+                    "messagetype": "Text",
+                    "version": 1583069054491.0,
+                    "content": "Call Log for Call 04fb566a-2ae1-45d2-b975-56a86575beaa",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:23:58.7855987Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:24:14.358373Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"04fb566a-2ae1-45d2-b975-56a86575beaa\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583068955492",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:22:35.401Z",
+                    "messagetype": "Text",
+                    "version": 1583068955492.0,
+                    "content": "Call Log for Call 98c35737-e79b-4e06-893a-dc95bc7c2c8d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:21:38.8464252Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:22:35.4014944Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"98c35737-e79b-4e06-893a-dc95bc7c2c8d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583068660477",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:17:40.374Z",
+                    "messagetype": "Text",
+                    "version": 1583068660477.0,
+                    "content": "Call Log for Call 0ee8cad5-7d7d-4f98-9325-033f12fe0351",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T13:16:44.1125097Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:17:40.374695Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0ee8cad5-7d7d-4f98-9325-033f12fe0351\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583067607552",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T13:00:07.461Z",
+                    "messagetype": "Text",
+                    "version": 1583067607552.0,
+                    "content": "Call Log for Call 5ef88108-3d32-4914-ae98-ca009f58e02d",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:59:11.5118163Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T13:00:07.4610199Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"5ef88108-3d32-4914-ae98-ca009f58e02d\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583066626935",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:43:46.844Z",
+                    "messagetype": "Text",
+                    "version": 1583066626935.0,
+                    "content": "Call Log for Call cb133094-ee60-4476-b4c1-b19110fa16f3",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:42:50.5763331Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:43:46.8448828Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"cb133094-ee60-4476-b4c1-b19110fa16f3\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583066250814",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:37:30.67Z",
+                    "messagetype": "Text",
+                    "version": 1583066250814.0,
+                    "content": "Call Log for Call f8f4c600-f3e1-4780-9849-63db04ac9231",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:36:33.7479538Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:37:30.6709359Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"f8f4c600-f3e1-4780-9849-63db04ac9231\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583066042801",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:34:02.698Z",
+                    "messagetype": "Text",
+                    "version": 1583066042801.0,
+                    "content": "Call Log for Call f4e0aa1b-c357-4070-9e22-cc7a71421a22",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:33:06.5333314Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:34:02.698765Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"f4e0aa1b-c357-4070-9e22-cc7a71421a22\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583065946270",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:32:26.186Z",
+                    "messagetype": "Text",
+                    "version": 1583065946270.0,
+                    "content": "Call Log for Call aa7a9e64-4c51-4600-9155-56397ec94041",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:32:11.9347694Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:32:26.1868632Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"aa7a9e64-4c51-4600-9155-56397ec94041\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583065925504",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:32:05.425Z",
+                    "messagetype": "Text",
+                    "version": 1583065925504.0,
+                    "content": "Call Log for Call 0c40c9ca-1094-487d-95f5-d9d12423975f",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:31:04.1343359Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:32:05.4254043Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"0c40c9ca-1094-487d-95f5-d9d12423975f\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583064455738",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:07:35.647Z",
+                    "messagetype": "Text",
+                    "version": 1583064455738.0,
+                    "content": "Call Log for Call e6db0a2c-76d3-401b-b0af-81f9c5920da6",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:06:39.4046781Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:07:35.647433Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"e6db0a2c-76d3-401b-b0af-81f9c5920da6\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583064265944",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T12:04:25.847Z",
+                    "messagetype": "Text",
+                    "version": 1583064265944.0,
+                    "content": "Call Log for Call c6988527-6d45-4b23-b385-23813a6f0ad8",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T12:03:29.9446305Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T12:04:25.8474986Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"c6988527-6d45-4b23-b385-23813a6f0ad8\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583062898022",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T11:41:37.938Z",
+                    "messagetype": "Text",
+                    "version": 1583062898022.0,
+                    "content": "Call Log for Call 97e7ff20-a634-4594-8dc8-5c9e54953250",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T11:40:48.3181878Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T11:41:37.938316Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"97e7ff20-a634-4594-8dc8-5c9e54953250\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583062682148",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T11:38:02.063Z",
+                    "messagetype": "Text",
+                    "version": 1583062682148.0,
+                    "content": "Call Log for Call cfeef417-64c6-42e8-bcb6-4ad19b64b401",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T11:37:06.1229546Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T11:38:02.0634421Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"cfeef417-64c6-42e8-bcb6-4ad19b64b401\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583062607899",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T11:36:47.814Z",
+                    "messagetype": "Text",
+                    "version": 1583062607899.0,
+                    "content": "Call Log for Call 83b26173-6ea7-498b-a9f9-5e2a071c1b7c",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T11:35:51.654015Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T11:36:47.8147472Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"83b26173-6ea7-498b-a9f9-5e2a071c1b7c\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583062487260",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T11:34:47.172Z",
+                    "messagetype": "Text",
+                    "version": 1583062487260.0,
+                    "content": "Call Log for Call 1093d819-0ded-46b6-8318-737d700b2ee6",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T11:33:42.2792831Z\",\"connectTime\":null,\"endTime\":\"2020-03-01T11:34:47.1723815Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"missed\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"1093d819-0ded-46b6-8318-737d700b2ee6\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583034217972",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T03:43:37.878Z",
+                    "messagetype": "Text",
+                    "version": 1583034217972.0,
+                    "content": "Call Log for Call 2b183800-1314-4120-892e-fcfedd92fd8f",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-03-01T01:11:19.6966445Z\",\"connectTime\":\"2020-03-01T01:11:27.5258629Z\",\"endTime\":\"2020-03-01T03:43:37.878664Z\",\"callDirection\":\"outgoing\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:live:.cid.11f33b69fd0af271\",\"target\":\"8:caylakkk30\",\"originatorParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":\"live:.cid.11f33b69fd0af271\"},\"targetParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":null},\"callId\":\"2b183800-1314-4120-892e-fcfedd92fd8f\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"155a2956-fe67-4bd3-9e5a-caf866ec0abc\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }, {
+                    "id": "1583025045800",
+                    "displayName": null,
+                    "originalarrivaltime": "2020-03-01T01:10:45.533Z",
+                    "messagetype": "Text",
+                    "version": 1583025045800.0,
+                    "content": "Call Log for Call 1fcf981c-080c-46bc-8336-d35fef82fb93",
+                    "conversationid": "48:calllogs",
+                    "from": "8:live:.cid.11f33b69fd0af271",
+                    "properties": {
+                        "call-log": "{\"startTime\":\"2020-02-29T23:47:31.1665505Z\",\"connectTime\":\"2020-02-29T23:47:41.826489Z\",\"endTime\":\"2020-03-01T01:10:45.5335735Z\",\"callDirection\":\"incoming\",\"callType\":\"twoParty\",\"callState\":\"accepted\",\"originator\":\"8:caylakkk30\",\"target\":\"8:live:.cid.11f33b69fd0af271\",\"originatorParticipant\":{\"id\":\"8:caylakkk30\",\"type\":\"default\",\"displayName\":\"ÇayLak\"},\"targetParticipant\":{\"id\":\"8:live:.cid.11f33b69fd0af271\",\"type\":\"default\",\"displayName\":null},\"callId\":\"1fcf981c-080c-46bc-8336-d35fef82fb93\",\"callAttributes\":null,\"forwardingInfo\":null,\"transferInfo\":null,\"participants\":null,\"participantList\":null,\"threadId\":null,\"sessionType\":\"default\",\"sharedCorrelationId\":\"470756a7-626b-429a-bd09-45bb1e845402\",\"messageId\":null}"
+                    },
+                    "amsreferences": null
+                }
+            ]
+        }, {
+            "id": "28:concierge",
+            "displayName": "Skype",
+            "version": 1583143450952.0,
+            "properties": {
+                "conversationblocked": false,
+                "lastimreceivedtime": "2020-03-02T10:04:10.579Z",
+                "consumptionhorizon": null,
+                "conversationstatus": null
+            },
+            "threadProperties": null,
+            "MessageList": [{
+                    "id": "1583143450579",
+                    "displayName": "Skype",
+                    "originalarrivaltime": "2020-03-02T10:04:10.579Z",
+                    "messagetype": "PopCard",
+                    "version": 1583143450579.0,
+                    "content": "[{\"contentType\":\"application/vnd.microsoft.card.popup\",\"cardType\":1,\"clientVersion\":\"8.17,\",\"quietCard\":false,\"persistencyMode\":\"persistent\",\"iconUrl\":\"https://secure.skypeassets.com/content/dam/engagement/commerce-buyskypecreditpstntastercall/d675aeba-c75a-4c9c-89dc-06d867037b12_skype-to-phone-notifications@2x.png\",\"campaignGuid\":\"cmrc-onboarding-skype-to-phone-b\",\"language\":\"tr\",\"platformList\":[1,2,3,4,5],\"validUntilTimestamp\":\"2020-03-16T10:04:07.8819203Z\",\"content\":{\"title\":\"Skype'tan Telefona özelliğini keşfedin\",\"text\":\"Skype'tan Telefona özelliğiyle tüm dünyadaki mobil ve sabit hatları arayabilir ve SMS mesajları gönderebilirsiniz\",\"media\":{\"url\":\"https://secure.skypeassets.com/content/dam/engagement/commerce-buyskypecreditpstntastercall/f2ad040f-3acd-4261-9c45-8f0cce3a3113_skype-to-phone-popcard@2x.png\",\"mediaType\":\"image\"},\"buttons\":[{\"actionUri\":\"skype:?action=balancestate\",\"title\":\"Daha fazla bilgi\"}]},\"telemetry\":{\"campaignId\":\"cmrc-onboarding-skype-to-phone\",\"variantId\":\"cmrc-onboarding-skype-to-phone-b\",\"iteration\":\"1\"},\"experimentName\":\"cmrc-onboarding-skype-to-phone\"}]",
+                    "conversationid": "28:concierge",
+                    "from": "28:concierge",
+                    "properties": null,
+                    "amsreferences": null
+                }
+            ]
+        }, {
+            "id": "8:caylakkk30",
+            "displayName": "ÇayLak",
+            "version": 1594745921962.0,
+            "properties": {
+                "conversationblocked": false,
+                "lastimreceivedtime": "2020-03-04T19:46:32.792Z",
+                "consumptionhorizon": "1583400345195;1584472543395;9976278572064246629",
+                "conversationstatus": "Accepted"
+            },
+            "threadProperties": null,
+            "MessageList": []
+        }
+    ]
+}
