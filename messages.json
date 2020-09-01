@@ -1319,6 +1319,7 @@
                     "messagetype": "PopCard",
                     "version": 1583143450579.0,
                     "content": "[{\"contentType\":\"application/vnd.microsoft.card.popup\",\"cardType\":1,\"clientVersion\":\"8.17,\",\"quietCard\":false,\"persistencyMode\":\"persistent\",\"iconUrl\":\"https://secure.skypeassets.com/content/dam/engagement/commerce-buyskypecreditpstntastercall/d675aeba-c75a-4c9c-89dc-06d867037b12_skype-to-phone-notifications@2x.png\",\"campaignGuid\":\"cmrc-onboarding-skype-to-phone-b\",\"language\":\"tr\",\"platformList\":[1,2,3,4,5],\"validUntilTimestamp\":\"2020-03-16T10:04:07.8819203Z\",\"content\":{\"title\":\"Skype'tan Telefona özelliğini keşfedin\",\"text\":\"Skype'tan Telefona özelliğiyle tüm dünyadaki mobil ve sabit hatları arayabilir ve SMS mesajları gönderebilirsiniz\",\"media\":{\"url\":\"https://secure.skypeassets.com/content/dam/engagement/commerce-buyskypecreditpstntastercall/f2ad040f-3acd-4261-9c45-8f0cce3a3113_skype-to-phone-popcard@2x.png\",\"mediaType\":\"image\"},\"buttons\":[{\"actionUri\":\"skype:?action=balancestate\",\"title\":\"Daha fazla bilgi\"}]},\"telemetry\":{\"campaignId\":\"cmrc-onboarding-skype-to-phone\",\"variantId\":\"cmrc-onboarding-skype-to-phone-b\",\"iteration\":\"1\"},\"experimentName\":\"cmrc-onboarding-skype-to-phone\"}]",
+                    "conversationid": "28:concierge--WARNING! ERRORS ENCOUNTERED DURING SQL PARSING!
 
                     "from": "28:concierge",
                     "properties": null,
